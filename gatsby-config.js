@@ -3,11 +3,11 @@ module.exports = {
     siteTitle: 'Chronoblog Starter',
     siteDescription: 'Starter for Gatsby Theme Chronoblog',
     siteImage: '/banner.png', // main image of the site for metadata
-    siteUrl: 'https://chronoblog.now.sh/',
+    siteUrl: 'https://hoaithi.tech/',
     pathPrefix: '/',
     siteLanguage: 'en',
     ogLanguage: `en_US`,
-    author: 'Site Author', // for example - 'Ivan Ganev'
+    author: `Thi's Blog`, // for example - 'Ivan Ganev'
     authorDescription: 'short author description', // short text about the author
     avatar: '/avatar.jpg',
     twitterSite: '', // website account on twitter
