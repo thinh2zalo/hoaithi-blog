@@ -1,6 +1,6 @@
 ---
 title: Creating a sticky header for a UITableView without storyboard.
-cover: './image.jpg'
+cover: './image.png'
 date: 2020-11-1
 tags: ['post', 'ios', 'sticky header']
 ---
